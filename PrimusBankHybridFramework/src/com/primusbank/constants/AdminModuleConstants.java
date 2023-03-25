@@ -17,7 +17,7 @@ public class AdminModuleConstants extends PrimusBankConstants
 		phome.adminpwd="Admin";
 		phome.adminLogin(phome.adminuid,phome.adminpwd);
 	}
-	
+	//commit
 	@AfterMethod
 	public void adminLogout()
 	{
